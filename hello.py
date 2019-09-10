@@ -1,7 +1,7 @@
 version = "0.1"
 hotfix = True
 branchDev = True
-
+Release = "1"
 print("hello version --> "+version)
 print("Hotfix --> "+hotfix)
 print("Dev -->"+str(branchDev))
