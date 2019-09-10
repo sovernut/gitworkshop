@@ -1,4 +1,4 @@
-version = "0.2"
+version = "1"
 hotfix = True
 print("hello version --> "+version)
 print("Hotfix --> "+hotfix)
